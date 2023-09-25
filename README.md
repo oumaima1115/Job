@@ -41,4 +41,4 @@ Provide detailed instructions on how to clone, configure, and run your "Job" pro
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/oumaima1115/job.git
+   git clone https://github.com/oumaima1115/Job.git
